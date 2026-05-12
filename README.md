@@ -1,14 +1,14 @@
 # Smart SaaS Platform
 
-Modern SaaS platform built with Next.js, Node.js, PostgreSQL, and scalable API architecture.
+Modern SaaS platform built with scalable architecture and AI integration.
 
 ## Features
 - Authentication
 - Dashboard
-- API Integration
+- REST API
 - Subscription System
-- Responsive UI
 - AI Features
+- Responsive UI
 
 ## Tech Stack
 - Next.js
